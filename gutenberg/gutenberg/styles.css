@@ -1,0 +1,142 @@
+body {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+
+img {
+    border-radius: 20pt;
+    box-shadow: 0pt 5pt 10pt 0pt #696363;
+}
+
+.pg-boilerplate {
+    color: #b3b1af;
+}
+
+.pg-boilerplate h2{
+    color: #b3b1af;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.5;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    color: #e8b079;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-size: 300%;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+    letter-spacing: 0.12em;
+    word-spacing: 0.2em;
+    text-indent: 0
+}
+
+h2 {
+    font-size: 150%;
+    margin-top: 2em;
+    margin-bottom: 1em
+}
+
+h3 {
+    font-size: 130%;
+    margin-top: 1em
+}
+
+h4 {
+    font-size: 120%
+}
+
+h5 {
+    font-size: 110%
+}
+
+.no-break {
+    page-break-before: avoid
+}
+
+div.chapter {
+    page-break-before: always;
+    margin-top: 4em
+}
+
+.chapter p{
+    color: #ebe8e8;
+}
+
+hr {
+    width: 80%;
+    margin-top: 2em;
+    margin-bottom: 2em
+    }
+
+p {
+    text-indent: 1em;
+    margin-top: 0.25em;
+    margin-bottom: 0.25em
+}
+
+p.poem {
+
+    text-indent: 0%;
+    margin-left: 10%;
+    font-size: 90%;
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+p.letter {
+    text-indent: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+.letter {
+    text-indent: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+p.noindent {
+    text-indent: 0%
+    }
+p.right {
+    text-align: right;
+    margin-right: 10%;
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+div.fig {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+a:link {
+    color: #a9e3e8;
+    text-decoration: none
+}
+
+a:visited {
+    color:khaki;
+    text-decoration: none
+}
+
+a:hover {
+    color: #28aab5
+}

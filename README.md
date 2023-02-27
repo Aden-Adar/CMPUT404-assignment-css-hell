@@ -21,4 +21,22 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+\
+&nbsp;Changes made in Part 1:
+- Modifications to HTML file
+  - Commented out the original styling
+  - Added link to my stylesheet
+  - Changed the path of the book cover image
+- Paragraph tags
+  - Changed font color to white only for the book content
+- Header tags
+  - Changed font color to orange
+  - Changed font family to 'Segoe UI' (primary)
+- Image
+  - Added a box shadow around the book cover image
+  - Added a slight rounding of the edges
+- Background
+  - Changed background to an image
+  - Changed background size to cover for aesthetics
+
 
