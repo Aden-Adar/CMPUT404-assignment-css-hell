@@ -1,0 +1,72 @@
+body {
+    font-family:cursive;
+    font-size: 16pt;
+    color: lightgray;
+    background-color: greenyellow;
+}
+
+.contact {
+    text-align: right;
+}
+
+#name {
+    font-weight: bold;
+}
+#profile-pic {
+    object-fit: cover;
+    border-radius: 50%;
+    filter: invert(100%);
+}
+
+#linkedin_icon, #github_icon {
+    margin-left: 75%;
+    margin-right: 1%;
+}
+
+a {
+    text-decoration: none;
+}
+.intro {
+    text-align: left;
+}
+
+.skills {
+    background-color: blueviolet;
+    border-radius: 50%;
+    margin-top: 5rem;
+    margin-left: auto;
+    /* width: 100%; */
+    /* display: flex; */
+    /* justify-content: left; */
+}
+
+.skills h3 {
+    margin: 0%;
+    padding: 0%;
+}
+.skills h4 {
+    margin: 0%;
+    padding-top: 5pt;
+}
+.skills ul {
+    margin: 0%;
+    padding-top: 10pt;
+}
+
+.professional_history {
+    background-color: green;
+    border-radius: 50%;
+    margin-top: 2rem;
+    margin-left: auto;
+}
+
+.professional_history h2 {
+    font-weight: bold;
+}
+.professional_history h2 {
+    margin: 0%;
+    padding: 0%;
+}
+.professional_history ul {
+    margin: 10pt;
+}
